@@ -38,3 +38,14 @@ Probleem met verkeerde branch naam die niet overeen kwamen ;
 
 ![image](https://user-images.githubusercontent.com/61709524/163951117-f200e919-35ab-4e85-9741-e8eeadf9c630.png)
 
+
+
+
+# Task-4-Webex-APIs
+ 
+ voorbereiding: API token opslaan, Room aanmaken, roomId uitlezen 
+ 
+ geen problemen ondervonden.
+ 
+ ![image](https://user-images.githubusercontent.com/61709524/163956079-daa8c979-20f4-4300-be76-cf12a0d497aa.png)
+
