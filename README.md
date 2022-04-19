@@ -1,3 +1,12 @@
+# Task-1-Pyhton-Jupyter
+Aanmaken van kleine pythons scriptjes en parsen van data.
+Installeren van Jupyter.
+
+# Task-2-SchoolLibrary-REST-APIs
+script aanmaken en boeken verwijderen, toevoegen, updaten.
+
+
+
 # Task-3-Github-skills
 
 maak map Devasc_skills aan met submappen
