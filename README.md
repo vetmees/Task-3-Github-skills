@@ -63,4 +63,12 @@ Probleem met verkeerde branch naam die niet overeen kwamen ;
  geen problemen ondervonden.
  
  ![image](https://user-images.githubusercontent.com/61709524/163956079-daa8c979-20f4-4300-be76-cf12a0d497aa.png)
+ 
+ 
+ # Task-5-Parse-data
+ 
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/61709524/163981498-7fab1709-7b16-45a4-bcfc-baa67fc88fab.png)
+
 
