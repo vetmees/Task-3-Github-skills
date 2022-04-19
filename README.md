@@ -2,8 +2,14 @@
 Aanmaken van kleine pythons scriptjes en parsen van data.
 Installeren van Jupyter.
 
+![image](https://user-images.githubusercontent.com/61709524/163958423-c4f6dbef-ee59-4c5d-a723-0c2e986c1dc9.png)
+
+
 # Task-2-SchoolLibrary-REST-APIs
 script aanmaken en boeken verwijderen, toevoegen, updaten.
+
+![image](https://user-images.githubusercontent.com/61709524/163958926-ab8737a6-8960-438e-a570-9c965a18f65f.png)
+
 
 
 
