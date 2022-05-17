@@ -71,4 +71,12 @@ Probleem met verkeerde branch naam die niet overeen kwamen ;
  
  ![image](https://user-images.githubusercontent.com/61709524/163981498-7fab1709-7b16-45a4-bcfc-baa67fc88fab.png)
 
+# Task-8-Netmiko
+
+![image](https://user-images.githubusercontent.com/61709524/168786174-ab26584f-0a2b-4394-97b1-670c232c9b1c.png)
+
+in bovenstaande foto worden de commando's gepushed naar de switch.
+de config_commands array bevat commando's en deze worden 1 voor 1 naar de switch gepushed.
+
+ 
 
